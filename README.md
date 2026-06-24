@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 AI Fact Checker Agent
+# 🔍 Brand and Claim Analysis
 
 ### Verify any claim in seconds — powered by LLaMA 3.3, Groq, n8n & Next.js
 
